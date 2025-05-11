@@ -23,16 +23,18 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-APPS:
- Youtube:
-    *- Complex Algorithm to suggest videos I might like
-    *- Free educational Videos 
- BitWarden:
-    *- Stores my passwords
-    *- Seamless password sharing across my devices
-  Musi:
-    *- Uses the Youtube Api to play videos in the background
-    *- Stores all of my favorite songs in a well-organized section.
+
+### YouTube
+- Complex algorithm to suggest videos I might like  
+- Free educational videos
+
+### BitWarden
+- Stores my passwords  
+- Seamless password sharing across my devices
+
+### Musi
+- Uses the YouTube API to play videos in the background  
+- Stores all of my favorite songs in a well-organized section
 
 ## Notes
 
