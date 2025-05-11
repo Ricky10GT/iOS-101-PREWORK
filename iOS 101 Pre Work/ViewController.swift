@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  iOS 101 Pre Work
 //
-//  Created by Ana Palacios on 5/11/25.
+//  Created by Richard Zheng on 5/11/25.
 //
 
 import UIKit
